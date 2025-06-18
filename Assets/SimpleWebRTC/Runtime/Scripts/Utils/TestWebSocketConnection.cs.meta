@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: bb62461af639848478eef9fb851119c4
+AssetOrigin:
+  serializedVersion: 1
+  productId: 309727
+  packageName: SimpleWebRTC
+  packageVersion: 1.3.1
+  assetPath: Assets/SimpleWebRTC/Runtime/Scripts/Utils/TestWebSocketConnection.cs
+  uploadId: 759222
